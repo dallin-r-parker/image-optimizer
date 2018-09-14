@@ -1,0 +1,10 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dallin parker <dallin.r.parker@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.20.8"
+  }
+}
